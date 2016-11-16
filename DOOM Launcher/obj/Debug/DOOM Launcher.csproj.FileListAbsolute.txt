@@ -1,0 +1,16 @@
+c:\users\justtrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\DOOM Launcher.exe.config
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\DOOM Launcher.exe
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\DOOM Launcher.pdb
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\Microsoft.Xna.Framework.GamerServicesExtensions.dll
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\Microsoft.Xna.Framework.MediaLibraryExtensions.dll
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM Launcher.csprojResolveAssemblyReference.cache
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM_Launcher.DOOMLauncher.resources
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM_Launcher.Properties.Resources.resources
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM Launcher.csproj.GenerateResource.Cache
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM Launcher.exe
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\obj\Debug\DOOM Launcher.pdb
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\SlimDX.pdb
+C:\Users\JustTrev\documents\visual studio 2015\Projects\DOOM Launcher\DOOM Launcher\bin\Debug\SlimDX.xml
