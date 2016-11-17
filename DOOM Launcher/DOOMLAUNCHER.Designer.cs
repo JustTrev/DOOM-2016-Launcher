@@ -140,7 +140,7 @@
             // 
             // timer1
             // 
-            this.timer1.Interval = 75;
+            this.timer1.Interval = 80;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label1
@@ -182,6 +182,7 @@
             this.Controls.Add(this.btnSettings);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "DOOMLauncher";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DOOM Launcher";

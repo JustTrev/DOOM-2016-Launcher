@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DOOM Launcher")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Created by Lil Tpot roX.  This is a fan made project and is under the GNU L3 license.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DOOM Launcher")]
